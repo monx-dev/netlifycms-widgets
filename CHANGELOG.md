@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/monx-dev/netlifycms-widgets/compare/v1.0.0...v1.0.1) (2020-11-05)
+
+
+### Bug Fixes
+
+* editor props ([efb98ca](https://github.com/monx-dev/netlifycms-widgets/commit/efb98ca304487b681b82526fd2c6d36b32160125))
+
 # 1.0.0 (2020-11-05)
 
 
