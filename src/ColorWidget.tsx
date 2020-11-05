@@ -1,7 +1,7 @@
 import React, { useCallback, useState } from 'react';
 import { ChromePicker, ColorResult } from 'react-color';
 import styled from 'styled-components';
-import Widget from '@monx/react-NetlifyCMS/dist/Widget';
+import Widget from '@monx/react-netlifycms/dist/Widget';
 
 const Button = styled.button`
   min-width: 120px;

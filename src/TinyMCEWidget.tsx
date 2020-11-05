@@ -1,4 +1,4 @@
-import Widget from '@monx/react-NetlifyCMS/dist/Widget';
+import Widget from '@monx/react-netlifycms/dist/Widget';
 import { Editor } from '@tinymce/tinymce-react';
 
 export const TinyMCEWidget = Widget<string>(
