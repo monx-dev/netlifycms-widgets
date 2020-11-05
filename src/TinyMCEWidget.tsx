@@ -3,9 +3,9 @@ import { Editor } from '@tinymce/tinymce-react';
 
 interface TinyMCEWidgetProps {
   plugins?: string[];
-  toolbar: string;
+  toolbar?: string;
   height?: number;
-  menubar: boolean;
+  menubar?: boolean;
 }
 
 export const TinyMCEWidget = Widget<string, TinyMCEWidgetProps>(
