@@ -7,13 +7,14 @@ interface TinyMCEWidgetProps {
   toolbar?: string;
   height?: number;
   menubar?: boolean;
+  apiKey?: string;
 }
 
 export const TinyMCEWidget = Widget<string, TinyMCEWidgetProps>(
   ({ onChange, value, params }) => {
     return (
       <Editor
-        apiKey={process.env.NEXT_PUBLIC_TINY_API_KEY}
+        apiKey={params.apiKey}
         value={value}
         init={{
           height: params.height,
