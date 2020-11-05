@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/monx-dev/netlifycms-widgets/compare/v1.0.2...v1.1.0) (2020-11-05)
+
+
+### Features
+
+* add apiKey to params ([413d087](https://github.com/monx-dev/netlifycms-widgets/commit/413d087be67121e9e65f60422f1f75cfd44470ce))
+
 ## [1.0.2](https://github.com/monx-dev/netlifycms-widgets/compare/v1.0.1...v1.0.2) (2020-11-05)
 
 
