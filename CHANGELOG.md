@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/monx-dev/netlifycms-widgets/compare/v1.0.1...v1.0.2) (2020-11-05)
+
+
+### Bug Fixes
+
+* react import ([3aa3f5c](https://github.com/monx-dev/netlifycms-widgets/commit/3aa3f5cfd57803074a2e4c92da4c2d8c16c97192))
+
 ## [1.0.1](https://github.com/monx-dev/netlifycms-widgets/compare/v1.0.0...v1.0.1) (2020-11-05)
 
 
