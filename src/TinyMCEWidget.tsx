@@ -3,7 +3,7 @@ import Widget from '@monx/react-netlifycms/dist/Widget';
 import { Editor } from '@tinymce/tinymce-react';
 
 interface TinyMCEWidgetProps {
-  plugins?: string[];
+  plugins?: string;
   toolbar?: string;
   height?: number;
   menubar?: boolean;

@@ -1,5 +1,4 @@
-module.exports = {
-  hooks: {
-    'commit-msg': 'commitlint -E HUSKY_GIT_PARAMS',
-  },
-};
+/* eslint-disable @typescript-eslint/no-var-requires */
+const { huskyConfig } = require('@monx/versioning');
+
+module.exports = huskyConfig;
