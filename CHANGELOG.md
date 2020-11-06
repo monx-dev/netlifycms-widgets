@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/monx-dev/netlifycms-widgets/compare/v1.1.1...v1.1.2) (2020-11-06)
+
+
+### Bug Fixes
+
+* update netlify ([831f5c1](https://github.com/monx-dev/netlifycms-widgets/commit/831f5c124063341fe8cc2dc3dc90905491fe245f))
+
 ## [1.1.1](https://github.com/monx-dev/netlifycms-widgets/compare/v1.1.0...v1.1.1) (2020-11-06)
 
 
