@@ -965,10 +965,10 @@
     prettier "^2.1.2"
     typescript "^4.0.5"
 
-"@monx/react-netlifycms@^1.3.1":
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/@monx/react-netlifycms/-/react-netlifycms-1.3.1.tgz#8eadaae6c4101ce67c6f86bf35a8123cdcb5ff31"
-  integrity sha512-HwWedA/40mvQ4oB0/zE423gslKjtHcduC1RoGBycYhqEeDdM+kZoVkQX+Orx3XtsHLhZLcOrSboDenj7vhzMzQ==
+"@monx/react-netlifycms@^1.3.6":
+  version "1.3.6"
+  resolved "https://registry.yarnpkg.com/@monx/react-netlifycms/-/react-netlifycms-1.3.6.tgz#4d7a4ff333d8519a910c474e4f59e1b3a3fc5f22"
+  integrity sha512-16ZNtdT42Elll/UzVAtVyYT01EpYVsMYnAsZ75p3gLtDTCbv7TdZ/tb51h9iqZpjQdcEetBpN1yQxJpzygs/9A==
   dependencies:
     netlify-cms-app "^2.12.27"
     netlify-identity-widget "^1.9.1"

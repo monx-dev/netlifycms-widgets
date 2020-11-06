@@ -1,5 +1,5 @@
 import React from 'react';
-import Widget from '@monx/react-netlifycms/dist/Widget';
+import { Widget } from '@monx/react-netlifycms/dist/Widget';
 import { Editor } from '@tinymce/tinymce-react';
 
 interface TinyMCEWidgetProps {
