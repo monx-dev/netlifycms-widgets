@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/monx-dev/netlifycms-widgets/compare/v1.1.2...v1.1.3) (2020-11-06)
+
+
+### Bug Fixes
+
+* build ([05040fe](https://github.com/monx-dev/netlifycms-widgets/commit/05040feebcfc349c8bdb90618fd5185f1404fd9e))
+* moved dependency to peer ([ef1dbfc](https://github.com/monx-dev/netlifycms-widgets/commit/ef1dbfc719a9f01da5af48e6b19f46090b39bf0b))
+
 ## [1.1.2](https://github.com/monx-dev/netlifycms-widgets/compare/v1.1.1...v1.1.2) (2020-11-06)
 
 
